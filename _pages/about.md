@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an undergraduate student at Wuhan University (武汉大学). I'm a member of <a href="http://aim-nercms.whu.edu.cn/"> AIM Lab</a>（AI and Multimedia Lab）, advised by <a href="https://scholar.google.com/citations?user=RXBiwbUAAAAJ&hl=zh-CN">Jing Xiao</a> and <a href="https://wangzwhu.github.io/home/">Zheng Wang</a>. And I am also collaborating with <a href="https://liaoliang92.github.io/homepage/">Liang Liao</a> at Nanyang Technological University
+I'm currently an undergraduate student at Wuhan University (武汉大学). I'm a member of <a href="http://aim-nercms.whu.edu.cn/"> AIM Lab</a>（AI and Multimedia Lab）, advised by <a href="https://scholar.google.com/citations?user=RXBiwbUAAAAJ&hl=zh-CN">Jing Xiao</a> and <a href="https://wangzwhu.github.io/home/">Zheng Wang</a>. And I am also collaborating with <a href="https://liaoliang92.github.io/homepage/">Liang Liao</a> at Nanyang Technological University.
 
 My research interest lies in image inpainting and scene understanding.
 
@@ -25,7 +25,8 @@ My research interest lies in image inpainting and scene understanding.
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2022.06*  🎉 One papers are accepted by ICIP 2022
+- *2023.02*  🎉 We release the *DPED50K* datasets and codes of our works about reference-guided image inpainting
+- *2022.06*  🎉 One paper about reference-guided image inpainting is accepted by ICIP 2022
 
 # 📝 Publications 
 ### (* indicates equal contribution)
@@ -49,12 +50,13 @@ My research interest lies in image inpainting and scene understanding.
 <div><div class="badge">Under Review</div><img src='images\TransRef\intro.png' alt="RGTSI_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting
+<u><b>TransRef</b>: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erence-Guided Image Inpainting</u>
+
 <!-- [Reference-Guided Texture And Structure Inference for Image Inpainting](https://ieeexplore.ieee.org/abstract/document/9897592) -->
 
  Liang Liao*, <b>Taorong Liu*</b>, Delin Chen, Jing Xiao, Zheng Wang, Chia-Wen Lin, and Shin’ichi Satoh
 
-[**GitHub** ![](https://img.shields.io/github/stars/Cameltr/TransRef?style=social)](https://github.com/Cameltr/TransRef) | <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub** ![](https://img.shields.io/github/stars/Cameltr/TransRef?style=social)](https://github.com/Cameltr/TransRef) <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 <!-- - EfficientViT is a new family of vision models for efficient high-resolution vision, especially segmentation. The core building block of EfficientViT is a new lightweight multi-scale attention module that achieves global receptive field and multi-scale learning with only hardware-efficient operations. -->
 </div>
 </div>

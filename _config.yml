@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Taorong Liu (刘涛榕)"
-description              : "a graduate student in AIM Lab at Wuhan University. Focusing on image inpainting and scene understanding "
+description              : "A graduate student at Wuhan University."
 repository               : "cameltr/cameltr.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
