@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an undergraduate student at Wuhan University (WHU), China. I'm a member of <a href="http://aim-nercms.whu.edu.cn/"> AIMLab</a>, advised by <a href="https://scholar.google.com/citations?user=RXBiwbUAAAAJ&hl=zh-CN"> Asso. Prof. Jing Xiao</a> and <a href="https://wangzwhu.github.io/home/"> Prof. Zheng Wang</a>. 
+I'm currently an undergraduate student at Wuhan University (武汉大学). I'm a member of <a href="http://aim-nercms.whu.edu.cn/"> AIM Lab</a>（AI and Multimedia Lab）, advised by <a href="https://scholar.google.com/citations?user=RXBiwbUAAAAJ&hl=zh-CN">Jing Xiao</a> and <a href="https://wangzwhu.github.io/home/">Zheng Wang</a>. And I am also collaborating with <a href="https://liaoliang92.github.io/homepage/">Liang Liao</a> at Nanyang Technological University
 
 My research interest lies in image inpainting and scene understanding.
 
@@ -28,8 +28,11 @@ My research interest lies in image inpainting and scene understanding.
 - *2022.06*  🎉 One papers are accepted by ICIP 2022
 
 # 📝 Publications 
+### (* indicates equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2022</div><img src='images\RGTSI\pipeline.png' alt="RGTSI_poster" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div><div class="badge">ICIP 2022</div><img src='images\RGTSI\intro.png' alt="RGTSI_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reference-Guided Texture And Structure Inference for Image Inpainting](https://ieeexplore.ieee.org/abstract/document/9897592)
@@ -37,6 +40,21 @@ My research interest lies in image inpainting and scene understanding.
 <b>Taorong Liu</b>, Liang Liao, Zheng Wang, Shin'ichi Satoh
 
 [**GitHub** ![](https://img.shields.io/github/stars/Cameltr/RGTSI?style=social)](https://github.com/Cameltr/RGTSI) | [**Poster**](images\RGTSI\poster.png) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- - EfficientViT is a new family of vision models for efficient high-resolution vision, especially segmentation. The core building block of EfficientViT is a new lightweight multi-scale attention module that achieves global receptive field and multi-scale learning with only hardware-efficient operations. -->
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div><div class="badge">Under Review</div><img src='images\TransRef\intro.png' alt="RGTSI_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting
+<!-- [Reference-Guided Texture And Structure Inference for Image Inpainting](https://ieeexplore.ieee.org/abstract/document/9897592) -->
+
+ Liang Liao*, <b>Taorong Liu*</b>, Delin Chen, Jing Xiao, Zheng Wang, Chia-Wen Lin, and Shin’ichi Satoh
+
+[**GitHub** ![](https://img.shields.io/github/stars/Cameltr/TransRef?style=social)](https://github.com/Cameltr/TransRef) | <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - EfficientViT is a new family of vision models for efficient high-resolution vision, especially segmentation. The core building block of EfficientViT is a new lightweight multi-scale attention module that achieves global receptive field and multi-scale learning with only hardware-efficient operations. -->
 </div>
 </div>

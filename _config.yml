@@ -9,7 +9,7 @@
 title                    : "Taorong Liu (刘涛榕)"
 description              : "a graduate student in AIM Lab at Wuhan University. Focusing on image inpainting and scene understanding "
 repository               : "cameltr/cameltr.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
