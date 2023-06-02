@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Taorong Liu (刘涛榕)"
+description              : "a graduate student in AIM Lab at Wuhan University. Focusing on image inpainting and scene understanding "
+repository               : "cameltr/cameltr.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Taorong Liu (刘涛榕)"
+  avatar           : "images/profile.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=QKZhYlIAAAAJ&hl=zh-CN"
   email            : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
