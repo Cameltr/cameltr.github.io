@@ -29,7 +29,7 @@ My research interest lies in image inpainting and scene understanding.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2022</div><img src='images\RGTSI\pipeline.png' alt="efficientvit_poster" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2022</div><img src='images\RGTSI\pipeline.png' alt="RGTSI_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reference-Guided Texture And Structure Inference for Image Inpainting](https://ieeexplore.ieee.org/abstract/document/9897592)

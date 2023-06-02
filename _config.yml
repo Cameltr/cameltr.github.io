@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Taorong Liu (刘涛榕)"
   avatar           : "images/profile.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QKZhYlIAAAAJ&hl=zh-CN"
-  email            : "Lorem@ipsum.com"
+  email            : "cameltr@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Cameltr"
   google_plus      :
   keybase          :
   instagram        :
