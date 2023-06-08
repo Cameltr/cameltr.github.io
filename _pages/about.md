@@ -30,7 +30,6 @@ My research interest lies in image inpainting and scene understanding.
 
 # 📝 Publications 
 ### (* indicates equal contribution)
-
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div><div class="badge">ICIP 2022</div><img src='images\RGTSI\intro.png' alt="RGTSI_poster" width="100%"></div></div>
