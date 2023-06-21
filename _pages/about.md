@@ -46,7 +46,7 @@ My research interest lies in image inpainting and scene understanding.
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div><div class="badge">Under Review</div><img src='images\TransRef\intro.png' alt="RGTSI_poster" width="100%"></div></div>
+<div><div class="badge">arXiv:2306.11528</div><img src='images\TransRef\intro.png' alt="RGTSI_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [<b>TransRef</b>: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erence-Guided Image Inpainting](http://arxiv.org/abs/2306.11528)
