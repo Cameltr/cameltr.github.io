@@ -21,6 +21,12 @@ I'm currently an undergraduate student at Wuhan University (武汉大学). I'm a
 
 My research interest lies in image inpainting and scene understanding.
 
+# 📖 Educations
+- *2023.09 - (now)*, Graduate, artificial intelligence, Wuhan University.
+- *2019.09 - 2023.06*, Undergraduate, computer science, Wuhan University.
+
+# 💻 Internships
+- *2021.03 - (now)*, [AIM Lab](http://aim-nercms.whu.edu.cn/), Wuhan, China.
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -44,6 +50,7 @@ My research interest lies in image inpainting and scene understanding.
 </div>
 </div>
 
+
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div><div class="badge">arXiv:2306.11528</div><img src='images\TransRef\intro.png' alt="RGTSI_poster" width="100%"></div></div>
@@ -51,11 +58,23 @@ My research interest lies in image inpainting and scene understanding.
 
 [<b>TransRef</b>: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erence-Guided Image Inpainting](http://arxiv.org/abs/2306.11528)
 
-<!-- [Reference-Guided Texture And Structure Inference for Image Inpainting](https://ieeexplore.ieee.org/abstract/document/9897592) -->
-
  Liang Liao*, <b>Taorong Liu*</b>, Delin Chen, Jing Xiao, Zheng Wang, Chia-Wen Lin, and Shin’ichi Satoh
 
 [**GitHub** ![](https://img.shields.io/github/stars/Cameltr/TransRef?style=social)](https://github.com/Cameltr/TransRef) <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+<!-- - EfficientViT is a new family of vision models for efficient high-resolution vision, especially segmentation. The core building block of EfficientViT is a new lightweight multi-scale attention module that achieves global receptive field and multi-scale learning with only hardware-efficient operations. -->
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div><div class="badge">under review</div><img src='images\MonDA\intro.png' alt="RGTSI_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Masked Online Domain Adaptation for Continuous Semantic Segmentation under Adverse Weather**
+
+Anoymous Submission
+
+<!-- [**GitHub** ![](https://img.shields.io/github/stars/Cameltr/TransRef?style=social)](https://github.com/Cameltr/TransRef) <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
 <!-- - EfficientViT is a new family of vision models for efficient high-resolution vision, especially segmentation. The core building block of EfficientViT is a new lightweight multi-scale attention module that achieves global receptive field and multi-scale learning with only hardware-efficient operations. -->
 </div>
 </div>
@@ -68,12 +87,3 @@ My research interest lies in image inpainting and scene understanding.
 - *2022.10* First Scholarship (Top 5%), Wuhan University.
 - *2021.10* Merit Student, Wuhan University.
 - *2021.10* Second Scholarship (Top 15%), Wuhan University.
-
-# 📖 Educations
-- *2023.09 - (now)*, Graduate, artificial intelligence, Wuhan University.
-- *2019.09 - 2023.06*, Undergraduate, computer science, Wuhan University.
-
-<!-- # 💻 Internships
-- *2023.05 - 2023.08*, [NVIDIA](https://www.nvidia.com/en-us/), Shanghai, China.
-- *2022.08 - 2023.02*, [Microsoft Research Lab - Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China.
-- *2021.06 - 2021.08*, [Momenta](https://www.momenta.cn/), Beijing, China. -->
